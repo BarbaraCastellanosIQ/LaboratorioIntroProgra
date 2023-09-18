@@ -1,0 +1,14 @@
+C:\Users\caste\OneDrive\Escritorio\2do Ciclo 2023\Intro a la progra\L4_BMCG_1049923\L4_BMCG_1049923\obj\Debug\net6.0\L4_BMCG_1049923.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caste\OneDrive\Escritorio\2do Ciclo 2023\Intro a la progra\L4_BMCG_1049923\L4_BMCG_1049923\obj\Debug\net6.0\L4_BMCG_1049923.AssemblyInfoInputs.cache
+C:\Users\caste\OneDrive\Escritorio\2do Ciclo 2023\Intro a la progra\L4_BMCG_1049923\L4_BMCG_1049923\obj\Debug\net6.0\L4_BMCG_1049923.AssemblyInfo.cs
+C:\Users\caste\OneDrive\Escritorio\2do Ciclo 2023\Intro a la progra\L4_BMCG_1049923\L4_BMCG_1049923\obj\Debug\net6.0\L4_BMCG_1049923.csproj.CoreCompileInputs.cache
+C:\Users\caste\OneDrive\Escritorio\2do Ciclo 2023\Intro a la progra\L4_BMCG_1049923\L4_BMCG_1049923\bin\Debug\net6.0\L4_BMCG_1049923.exe
+C:\Users\caste\OneDrive\Escritorio\2do Ciclo 2023\Intro a la progra\L4_BMCG_1049923\L4_BMCG_1049923\bin\Debug\net6.0\L4_BMCG_1049923.deps.json
+C:\Users\caste\OneDrive\Escritorio\2do Ciclo 2023\Intro a la progra\L4_BMCG_1049923\L4_BMCG_1049923\bin\Debug\net6.0\L4_BMCG_1049923.runtimeconfig.json
+C:\Users\caste\OneDrive\Escritorio\2do Ciclo 2023\Intro a la progra\L4_BMCG_1049923\L4_BMCG_1049923\bin\Debug\net6.0\L4_BMCG_1049923.dll
+C:\Users\caste\OneDrive\Escritorio\2do Ciclo 2023\Intro a la progra\L4_BMCG_1049923\L4_BMCG_1049923\bin\Debug\net6.0\L4_BMCG_1049923.pdb
+C:\Users\caste\OneDrive\Escritorio\2do Ciclo 2023\Intro a la progra\L4_BMCG_1049923\L4_BMCG_1049923\obj\Debug\net6.0\L4_BMCG_1049923.dll
+C:\Users\caste\OneDrive\Escritorio\2do Ciclo 2023\Intro a la progra\L4_BMCG_1049923\L4_BMCG_1049923\obj\Debug\net6.0\refint\L4_BMCG_1049923.dll
+C:\Users\caste\OneDrive\Escritorio\2do Ciclo 2023\Intro a la progra\L4_BMCG_1049923\L4_BMCG_1049923\obj\Debug\net6.0\L4_BMCG_1049923.pdb
+C:\Users\caste\OneDrive\Escritorio\2do Ciclo 2023\Intro a la progra\L4_BMCG_1049923\L4_BMCG_1049923\obj\Debug\net6.0\L4_BMCG_1049923.genruntimeconfig.cache
+C:\Users\caste\OneDrive\Escritorio\2do Ciclo 2023\Intro a la progra\L4_BMCG_1049923\L4_BMCG_1049923\obj\Debug\net6.0\ref\L4_BMCG_1049923.dll
