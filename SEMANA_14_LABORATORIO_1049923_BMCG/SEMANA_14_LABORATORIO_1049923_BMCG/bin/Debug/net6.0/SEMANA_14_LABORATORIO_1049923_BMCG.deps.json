@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SEMANA_14_LABORATORIO_1049923_BMCG/1.0.0": {
+        "runtime": {
+          "SEMANA_14_LABORATORIO_1049923_BMCG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEMANA_14_LABORATORIO_1049923_BMCG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
